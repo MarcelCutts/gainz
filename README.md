@@ -1,6 +1,8 @@
-# Gainz
+# GAINZ
 
-A simple app built with [Rebolt](https://rebolt.callstack.com/) that will tell you what gainz await you today.
+Never know what part of your body you're perfecting today? Now you do.
+
+A simple app built with [Rebolt](https://rebolt.callstack.com/) and [ReasonML](https://reasonml.github.io/).
 
 ## Getting started
 1. Run `yarn` in the root directory
