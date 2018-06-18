@@ -24,6 +24,12 @@ let app = () =>
         Style.flex(1.)
       ])
     )>
-    <Text> ("Today is" |> ReasonReact.string) </Text>
-    <Text> (currentDay |> getGainz |> ReasonReact.string) </Text>
+    <Text style=(
+      Style.style([
+        Style.fontSize(Float(32.))
+      ]))> ("Today is" |> ReasonReact.string) </Text>
+    <Text style=(
+      Style.style([
+        Style.fontSize(Float(48.))
+      ]))> (currentDay |> getGainz |> ReasonReact.string) </Text>
   </View>;
