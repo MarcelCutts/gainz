@@ -2,6 +2,7 @@
   "expo": {
     "sdkVersion": "27.0.0",
     "name": "GAINZ",
-    "description": "Never know what part of your body you're perfecting today? Now you do."
+    "description": "Never know what part of your body you're perfecting today? Now you do.",
+    "icon": "./icon.png"
   }
 }
